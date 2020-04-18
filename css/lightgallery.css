@@ -840,8 +840,8 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   display: inline-block;
   text-align: center;
   position: absolute;
-  width: 90%;
-  height: 90%;
+  width: 100%;
+  height: 100%;
 }
 .lg-outer .lg-item:before, .lg-outer .lg-img-wrap:before {
   content: "";
