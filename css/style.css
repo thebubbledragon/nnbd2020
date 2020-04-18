@@ -96,7 +96,6 @@ body {
 
 .demo-gallery > ul > li {
   margin-bottom: 15px;
-  width: 180px;
   display: inline-block;
   margin-right: 15px;
   list-style: outside none none;
